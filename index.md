@@ -7,61 +7,16 @@ I am using this repository to store and share with others whatever it is i am wo
 I live in Europe, sometimes in Paris, sometimes in London, other times in sunny Southern Spain It just depends. 
 
 ###  Interest and Hobbies:
-1.  Fishing
-1.  Painting
-1.  Writing
-2.  Watercolor
-2.  Oils
-2. Putting my big penis inside vaginas that enjoy very much!
 
 
 
 [****Follow me on Twitter****](https://twitter.com/MeMontecristo) 
 
 1. I am handsome and Smart
-1. I am very good in bed and have very big *******PENIS*******
+1. I am interesting and fun to be with My *******Brain******* Is my **PLAYGROUND** and a not so big  __EGO__
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-You can use the [editor on GitHub](https://github.com/OraculoML/Alchemy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-### This website is being created using Markdown
+I am using # **Markdown** to create the first instances of this Website. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -81,7 +36,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 
-
+You can use the [editor on GitHub](https://github.com/OraculoML/Alchemy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OraculoML/Alchemy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
