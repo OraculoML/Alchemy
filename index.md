@@ -6,12 +6,13 @@
 I am using this repository to store and share with others whatever it is i am working on. It changes so I cant tell anything more than that at this time. 
 I live in Europe, sometimes in Paris, sometimes in London, other times in sunny Southern Spain It just depends. 
 
-###  Interest and Hobbies:
+###  **Interest and Hobbies:**
 
 
 
 [****Follow me on Twitter****](https://twitter.com/MeMontecristo) 
-**Personal Qualities**
+
+### **Personal Qualities**
 > I am handsome and Smart
 > I am interesting and fun to be with My *******Brain******* Is my **PLAYGROUND** and a not so big  __EGO__
 
