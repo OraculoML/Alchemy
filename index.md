@@ -1,11 +1,19 @@
-# Welcome to Alchemy's GitHub Page
+# Welcome to Alchemy's GitHub Page![](https://avatars1.githubusercontent.com/u/36443429?s=96&v=4)
 
 
-**A little about me**:  Very little is known, all I can say is that I am a lonesome dude, but i do not know why i choose such solitude. 
+##  **A little about me**:  
+>Very little is known, all I can say is that I am a lonesome dude, but i do not know why i choose such solitude. 
 I am using this repository to store and share with others whatever it is i am working on. It changes so I cant tell anything more than that at this time. 
 I live in Europe, sometimes in Paris, sometimes in London, other times in sunny Southern Spain It just depends. 
 
-![](https://avatars1.githubusercontent.com/u/36443429?s=96&v=4)
+###  Interest and Hobbies:
+1.  Fishing
+1.  Painting
+1.  Writing
+2.  Watercolor
+2.  Oils
+2. Putting my big penis inside vaginas that enjoy very much!
+
 
 
 [****Follow me on Twitter****](https://twitter.com/MeMontecristo) 
