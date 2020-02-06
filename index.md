@@ -1,10 +1,57 @@
 # Welcome to Alchemy's GitHub Page
 
-You can use the [editor on GitHub](https://github.com/OraculoML/Alchemy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-**A little about me**:Very little is known, all i can say is that I am a lonesome dude, but i do not know why i choose such solitude. 
+**A little about me**:  Very little is known, all I can say is that I am a lonesome dude, but i do not know why i choose such solitude. 
 I am using this repository to store and share with others whatever it is i am working on. It changes so I cant tell anything more than that at this time. 
+I live in Europe, sometimes in Paris, sometimes in London, other times in sunny Southern Spain It just depends. 
 
+![](https://avatars1.githubusercontent.com/u/36443429?s=96&v=4)
+
+
+[****Follow me on Twitter****](https://twitter.com/MeMontecristo) 
+
+1. I am handsome and Smart
+1. I am very good in bed and have very big *******PENIS*******
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You can use the [editor on GitHub](https://github.com/OraculoML/Alchemy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 ### This website is being created using Markdown
 
@@ -25,7 +72,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Follow me on Twitter](https://twitter.com/MeMontecristo) and ![](https://avatars1.githubusercontent.com/u/36443429?s=96&v=4)
+
 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OraculoML/Alchemy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
