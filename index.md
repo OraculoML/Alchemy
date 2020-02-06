@@ -7,14 +7,14 @@ I am using this repository to store and share with others whatever it is i am wo
 I live in Europe, sometimes in Paris, sometimes in London, other times in sunny Southern Spain It just depends. 
 
 ###  **Interest and Hobbies:**
-
+(Work in progress)
 
 
 [****Follow me on Twitter****](https://twitter.com/MeMontecristo) 
 
 ### **Personal Qualities**
 > I am handsome and Smart
-> I am interesting and fun to be with My *******Brain******* Is my **PLAYGROUND** and a not so big  __EGO__
+> I am interesting and fun to be with. My *******Brain******* Is my **PLAYGROUND** and a not so big  __EGO__
 
 
 I am using # **Markdown** to create the first instances of this Website. 
