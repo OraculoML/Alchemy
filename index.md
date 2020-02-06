@@ -11,9 +11,9 @@ I live in Europe, sometimes in Paris, sometimes in London, other times in sunny 
 
 
 [****Follow me on Twitter****](https://twitter.com/MeMontecristo) 
-
-1. I am handsome and Smart
-1. I am interesting and fun to be with My *******Brain******* Is my **PLAYGROUND** and a not so big  __EGO__
+**Personal Qualities**
+> I am handsome and Smart
+> I am interesting and fun to be with My *******Brain******* Is my **PLAYGROUND** and a not so big  __EGO__
 
 
 I am using # **Markdown** to create the first instances of this Website. 
