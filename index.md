@@ -27,6 +27,8 @@ Syntax highlighted code block
 
 #A little about me:
 
+Very little is known, all i can say is that I am a lonesome dude, but i do not know why i choose such solitude. 
+
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OraculoML/Alchemy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
