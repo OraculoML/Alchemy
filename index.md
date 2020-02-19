@@ -7,7 +7,12 @@ I am using this repository to store and share with others whatever it is i am wo
 I live in Europe, sometimes in Paris, sometimes in London, other times in sunny Southern Spain It just depends. 
 
 ###  **Interest and Hobbies:**
-(Work in progress)
+> I am currently working on a number of Bots: 
+
+-Talking BOTS
+-Twitter BOTS
+-Ai BOTS
+-Other Bots
 
 
 [****Follow me on Twitter****](https://twitter.com/MeMontecristo) 
