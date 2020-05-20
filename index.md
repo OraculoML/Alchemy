@@ -1,25 +1,44 @@
-# Welcome to Alchemy's GitHub Page![](https://avatars1.githubusercontent.com/u/36443429?s=96&v=4)
+<html>
+	<head>
+		<title>Transient Drift!!! by FELIPE MONTEAGUDO</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
 
+		<!-- Header -->
+			<header id="header">
+				<h1>WebSite of Philippe Monteagudo</h1>
+				<p>I am in the process of crating my blog/Internet Website to host anything and everything.<br />
+				Transient Drift is my current state of being... It is all i can say at this moment <a href="https://twitter.com/transient_drift">Felipe MOnteagudo</a>.</p>
+			</header>
 
-##  **A little about me**:  
->Hello from a Transift Drift state:
-I am using this repository to store and share with others whatever it is i am working on. It changes so I cant tell anything more than that at this time. 
-I live in Europe, sometimes in Paris, sometimes in London, other times in sunny Southern Spain It just depends. 
+		<!-- Signup Form -->
+			<form id="signup-form" method="post" action="#">
+				<input type="email" name="email" id="email" placeholder="Email Address" />
+				<input type="submit" value="Sign Up" />
+			</form>
 
-###  **Interest and Hobbies:**
-> I am currently working on a number of Bots: 
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="https://twitter.com/transient_drift" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="https://www.instagram.com/transientfellow/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+					<li><a href="https://oraculoml.github.io/Alchemy-AI/" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+					<li><a href="mailto:delberro@gmail.com?subject=Inquiries and Sales&CC=fmonteagudo@outlook.com">Haz click aqui para enviar un correo a Transient_Drift" class="icon fa-envelope"><span class="label">Email</span></a></li>
 
--Talking BOTS
--Twitter BOTS
--Ai BOTS
--Other Bots
+				</ul>
+				<ul class="copyright">
+					<li>&copy; Untitled.</li><li>Credits: <a href="http://html5up.net">HTML5 UP</a></li>
+				</ul>
+			</footer>
 
+		<!-- Scripts -->
+			<script src="assets/js/main.js"></script>
 
-[****Follow me on Twitter****](https://twitter.com/MeMontecristo) 
-
-### **Personal Qualities**
-> I am handsome and Smart
-> I am interesting and fun to be with. My *******Brain******* Is my **PLAYGROUND** and a not so big  __EGO__
+	</body>
+</html>
 
 
 I am using # **Markdown** to create the first instances of this Website. 
