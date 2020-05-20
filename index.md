@@ -2,7 +2,7 @@
 
 
 ##  **A little about me**:  
->Very little is known, all I can say is that I am a lonesome dude, but i do not know why i choose such solitude. 
+>Hello from a Transift Drift state:
 I am using this repository to store and share with others whatever it is i am working on. It changes so I cant tell anything more than that at this time. 
 I live in Europe, sometimes in Paris, sometimes in London, other times in sunny Southern Spain It just depends. 
 
